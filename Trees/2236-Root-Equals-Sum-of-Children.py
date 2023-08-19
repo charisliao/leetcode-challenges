@@ -1,5 +1,5 @@
 # Date: 08/18/2023
-# Leetcode no. 2236
+# Leetcode no. 2236 - Root Equals Sum of Children
 # Difficulty: Easy 
 
 # Problem Statement:
