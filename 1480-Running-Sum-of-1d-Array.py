@@ -28,7 +28,7 @@ def runningSum(nums):
     """
     for i in range(1, len(nums)):
         nums[i] += nums[i-1]
-    return nums
+    return nums 
 
 if __name__ == "__main__":
     # test case 1
